@@ -1,0 +1,4 @@
+name: xMute
+main: dev.tinchx.mute.MutePlugin
+version: 1.0-SNAPSHOT
+author: Tinchx
